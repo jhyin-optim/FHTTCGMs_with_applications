@@ -1,5 +1,6 @@
 # FHTTCGMs_with_applications
 A new family of hybrid three-term conjugate gradient methods with applications in image restoration
+
 December 5, 2021
 
 This subdirectory contains the following PDF file and folders:
