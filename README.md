@@ -8,7 +8,6 @@ This subdirectory contains the following PDF file and folders:
 Numerical_results.pdf       
 - the numerical results for unconstrained optimization problems, in which contain four tables.
 
-
 Unconstrained_optimization_problems        
 - implementation of two groups of experiments for unconstrained  optimization problems.
 
@@ -24,9 +23,11 @@ Image_restoration_problems
 
 
 Implementation and numerical experience with the above codes are described in the paper: 
+    
     Xianzhen Jiang, Wei Liao, Jianghua Yin and Jinbao Jian
     "A new family of hybrid three-term conjugate gradient methods with applications in image restoration",
     Numerical Algorithms, 2022, https://doi.org/10.1007/s11075-022-01258-2
+
 If you use these codes, please cite the above paper.
    
 This code was last updated on December 5, 2021.
