@@ -5,7 +5,6 @@ This subdirectory contains the following PDF file and folders:
 Numerical_results.pdf       
 - the numerical results for unconstrained optimization problems, in which contain four tables.
 
-
 Unconstrained_optimization_problems        
 - implementation of two groups of experiments for unconstrained  optimization problems.
 
@@ -15,15 +14,15 @@ The_first_group
 The_second_group       
 - implementation of the second group, in which the runcode is also the MATLAB source code demo_CGM.m
 
-
 Image_restoration_problems       
 - implementation of  the proposed FHTTCGM-N, HZ and PRPs for image restoration problems, in which the runcode is the MATLAB source code demo.m
-
 
 Implementation and numerical experience with the above codes are described in the paper: 
     Xianzhen Jiang, Wei Liao, Jianghua Yin and Jinbao Jian
     "A new family of hybrid three-term conjugate gradient methods with applications in image restoration",
-    Submitted.
+    Numerical Algorithms, 2022, https://doi.org/10.1007/s11075-022-01258-2
+If you use these codes, please cite the above paper.
+
 This code was last updated on December 5, 2021.
 
 Questions/comments/suggestions about the codes are welcome.  
